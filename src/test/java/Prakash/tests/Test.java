@@ -12,6 +12,7 @@ public class Test {
 		System.out.println("i am here");
 		System.out.println("i am prakash ");
 		System.out.println("i am studying automation");
+		System.out.println("this commit from Test project Ecommerce");
 		
 		
 		
