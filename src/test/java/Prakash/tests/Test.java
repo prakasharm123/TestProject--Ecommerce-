@@ -1,7 +1,5 @@
 package Prakash.tests;
 
-import io.opentelemetry.exporter.logging.SystemOutLogRecordExporter;
-
 public class Test {
 	
 	String[] a = {"prakash","pradeep"};
@@ -12,6 +10,10 @@ public class Test {
 		
 		System.out.println("hay there ");
 		System.out.println("i am here");
+		System.out.println("i am prakash ");
+		System.out.println("i am studying automation");
+		
+		
 		
 
 	}
