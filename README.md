@@ -1,0 +1,1 @@
+This is a Ecommerce Testing Hybrid Framework where i was build write automation scripts and and Tests to validate a cart product is successfully placed or not, i am applying PageObject Model and used Different skills like Selenium-Java, TestNG(framework), Cucumber(basics), Jenkins (continuous integration), git & github, ExtentReports, PageObject
